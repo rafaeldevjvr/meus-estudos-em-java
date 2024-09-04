@@ -16,6 +16,8 @@ public class TesteGerente {
 
 		System.out.println("Acesso com senha: " + autenticou);
 
+		System.out.println("bonificação do gerente: R$" + g1.getBonificacao());
+
 	}
 
 }
